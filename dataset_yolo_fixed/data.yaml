@@ -1,0 +1,6 @@
+path: /root/home/crack_ws/dataset_yolo_fixed
+train: images/train
+val: images/valid
+test: images/test
+names:
+  0: crack

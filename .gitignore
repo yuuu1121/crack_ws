@@ -1,0 +1,9 @@
+runs/
+train_log*.txt
+yolov8n.pt
+yolo11n.pt
+demo/captures/
+__pycache__/
+*.engine
+.omc/
+**/.omc/
